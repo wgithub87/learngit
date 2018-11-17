@@ -1,0 +1,16 @@
+HP@HP-PC MINGW64 /f/learngit (master)
+$ git log --graph --pretty=oneline --abbrev-commit
+* 8672e17 (HEAD -> master) docment test
+*   9e1138a merge!
+|\
+| * 30838cd (dev) add merge
+* | 4f90067 fucking
+|/
+* ff6dd8e (origin/master) & simple
+* de33f00 branch test
+* 849d156 git tracks changes
+* a98fb29 understand how stage works
+* 7069c20 append GPL
+* 3280108 myself test!
+* 04757f2 add distributed
+* df05f21 wrote a readme
